@@ -64,12 +64,41 @@ HTML5 / CSS3      [████████████████░░░░]
 
 ---
 
+### 🔬 `RESEARCH TREE // UPCOMING SKILL PROTOCOLS`
+
+```text
+╔═══════════════════════════════════════════════════════════════════╗
+║  CURRENT UPGRADE IN PROGRESS:                                     ║
+║  [⚡] Autonomous AI Agents  -> Multi-agent task automation systems║
+║  [⚡] LLM Workflow Eng      -> Tool calling & automated pipelines ║
+║  [⚡] Agentic AI Solutions  -> Building AI to make workflows easy ║
+║  [⚡] Scalable Web Apps     -> Next-gen full-stack architectures  ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
 ### 🗺️ `ACTIVE QUEST LOGS // REPOSITORIES`
 
 | Quest Code | Mission Objective | Status | Telemetry |
 | :--- | :--- | :---: | :---: |
 | **[`SehatHub-Pharmacy`](https://github.com/obaids093-prog/SehatHub-Pharmacy)** | Online pharmacy & healthcare management ecosystem | `[ACTIVE]` | [⚡ Inspect Code](https://github.com/obaids093-prog/SehatHub-Pharmacy) |
 | `[CLASSIFIED_LABS]` | Encrypted internal modules & proprietary research | `[RESTRICTED]` | 🔒 Top Secret (Private) |
+
+---
+
+### 📡 `TRANSMISSION FREQUENCIES // COMM LINK`
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/TRANSMIT_DISPATCH-obaids093%40gmail.com-39FF14?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117)](mailto:obaids093@gmail.com)
+[![GitHub](https://img.shields.io/badge/FOLLOW_OPERATOR-obaids093--prog-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/obaids093-prog)
+
+```text
+>>> [ ENCRYPTED CHANNEL READY ]: Direct comms open for collaborations & opportunities.
+```
+
+</div>
 
 ---
 
@@ -85,6 +114,12 @@ HTML5 / CSS3      [████████████████░░░░]
 <a href="https://github.com/obaids093-prog">
   <img src="https://github-readme-stats.vercel.app/api?username=obaids093-prog&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=7EE787" alt="Obaid's GitHub Stats" />
 </a>
+<a href="https://github.com/obaids093-prog">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obaids093-prog&theme=matrix&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="Obaid's Streak Stats" />
+</a>
+
+<br/><br/>
+
 <a href="https://github.com/obaids093-prog">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaids093-prog&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=7EE787" alt="Top Languages" />
 </a>
