@@ -69,7 +69,7 @@ HTML5 / CSS3      [████████████████░░░░]
 | Quest Code | Mission Objective | Status | Telemetry |
 | :--- | :--- | :---: | :---: |
 | **[`SehatHub-Pharmacy`](https://github.com/obaids093-prog/SehatHub-Pharmacy)** | Online pharmacy & healthcare management ecosystem | `[ACTIVE]` | [⚡ Inspect Code](https://github.com/obaids093-prog/SehatHub-Pharmacy) |
-| **[`Pumpkin`](https://github.com/obaids093-prog/Pumpkin)** | Core personal project & experimental laboratory | `[DEPLOYED]` | [⚡ Inspect Code](https://github.com/obaids093-prog/Pumpkin) |
+| `[CLASSIFIED_LABS]` | Encrypted internal modules & proprietary research | `[RESTRICTED]` | 🔒 Top Secret (Private) |
 
 ---
 
